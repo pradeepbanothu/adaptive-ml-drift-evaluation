@@ -1,0 +1,4 @@
+Model,Static Accuracy,Adaptive Accuracy,Improvement,Detection Point,Detection Delay,Retrain Count
+Logistic Regression,0.6875,0.7375,0.05,1044,44,1
+Decision Tree,0.7125,0.5375,-0.175,1010,10,2
+Random Forest,0.725,0.7625,0.0375,1016,16,1
